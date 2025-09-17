@@ -1,0 +1,12 @@
+int n = 5;
+int i = 0;
+int sum = 0;
+while (i < n) {
+  sum = sum + i;
+  i = i + 1;
+}
+if (sum > 10) {
+  print(sum);
+} else {
+  print(0);
+}

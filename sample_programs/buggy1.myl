@@ -1,0 +1,5 @@
+func add(x, y) {
+  return x + y;
+}
+int r = add(3, 4);
+print(r);

@@ -1,0 +1,8 @@
+lark-parser
+ply
+rich
+pytest
+# AI libs (install later / only for AI dev or Colab)
+torch
+transformers
+sentence-transformers
